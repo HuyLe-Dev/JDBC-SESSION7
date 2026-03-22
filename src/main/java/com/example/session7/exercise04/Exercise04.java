@@ -1,4 +1,4 @@
-package main.java.com.example.session7.exercise04;
+package com.example.session7.exercise04;
 
 import java.util.Scanner;
 

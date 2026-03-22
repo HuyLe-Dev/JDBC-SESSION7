@@ -1,4 +1,4 @@
-package main.java.com.example.session7.exercise01;
+package com.example.session7.exercise01;
 
 public class Rectangle {
     private double length;

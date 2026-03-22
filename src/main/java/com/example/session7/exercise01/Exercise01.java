@@ -1,6 +1,4 @@
-package main.java.com.example.session7;
-
-import main.java.com.example.session7.exercise01.Rectangle;
+package com.example.session7.exercise01;
 
 public class Exercise01 {
 

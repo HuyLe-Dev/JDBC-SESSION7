@@ -1,4 +1,4 @@
-package main.java.com.example.session7.exercise03;
+package com.example.session7.exercise03;
 
 public class Person {
   private String name;

@@ -1,4 +1,4 @@
-package main.java.com.example.session7.exercise05;
+package com.example.session7.exercise05;
 
 public class Product {
     String id;
